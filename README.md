@@ -1,2 +1,2 @@
-# General_Purpose_Timer_Output_Compare_STM32429
+# General_Purpose_Timer_Output_Compare_STM32F429
  
